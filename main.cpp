@@ -4,6 +4,12 @@
 #include <stdlib.h>
 #include <iostream>
 
+/*
+	Integrantes:
+		 		Cristian Garrido Amestica
+				PPatricio Espinoza Salgado
+*/
+
 int x = 1; // El caballo inica en la casilla superior
 int y = 1; // izquierda
 const int TAMANO = 8; 
